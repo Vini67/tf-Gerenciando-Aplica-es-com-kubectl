@@ -1,0 +1,1 @@
+# tf-Gerenciando-Aplica-es-com-kubectl
